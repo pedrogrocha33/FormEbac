@@ -1,0 +1,13 @@
+
+
+
+.forms label{
+    display: flex;
+    margin: 10px 10px;
+}
+
+#logo img{
+    width: 50%;
+    height: 200px;
+    border: 1px solid black;
+}
